@@ -1,0 +1,4 @@
+[root]
+name = "thirty_days_of_rust"
+version = "0.1.0"
+

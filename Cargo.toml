@@ -1,0 +1,10 @@
+[package]
+name = "thirty_days_of_rust"
+version = "0.1.0"
+authors = ["Inumidun Amao <inumidun.amao@andela.com>"]
+
+[lib]
+name = "thirtylibs"
+path = "src/lib/mod.rs"
+
+[dependencies]
