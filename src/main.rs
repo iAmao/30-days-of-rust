@@ -12,4 +12,8 @@ fn main() {
     // Day three Operators
     println!("-----------\nDAY THREE: USE ARITHMETIC OPERATORS");
     thirtylibs::day_three::operators();
+
+    // Day three Operators
+    println!("-----------\nDAY FOUR: USE OF CONDITIONS");
+    thirtylibs::day_four::conditions();
 }
