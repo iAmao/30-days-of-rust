@@ -13,7 +13,11 @@ fn main() {
     println!("-----------\nDAY THREE: USE ARITHMETIC OPERATORS");
     thirtylibs::day_three::operators();
 
-    // Day three Operators
+    // Day four Operators
     println!("-----------\nDAY FOUR: USE OF CONDITIONS");
     thirtylibs::day_four::conditions();
+
+    // Day five Operators
+    println!("-----------\nDAY FIVE: USE OF CLASSES AND OOP");
+    thirtylibs::day_five::mn();
 }
