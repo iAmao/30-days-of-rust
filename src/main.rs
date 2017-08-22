@@ -20,4 +20,8 @@ fn main() {
     // Day five Operators
     println!("-----------\nDAY FIVE: USE OF CLASSES AND OOP");
     thirtylibs::day_five::mn();
+
+    //Day six Arrays
+    println!("-----------\nDAY SIX: USE OF ARRAYS");
+    thirtylibs::day_six::loop_mult();
 }
